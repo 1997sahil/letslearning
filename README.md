@@ -1,3 +1,3 @@
 # letslearning
-this  is  my first learning  project for git
+This  is  my first learning  project for git
 <p>learning project</p>
